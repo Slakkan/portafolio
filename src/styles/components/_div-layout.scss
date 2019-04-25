@@ -1,0 +1,10 @@
+.horizontal{
+    display: flex;
+    background: $off-white;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+    background: $off-white;
+}

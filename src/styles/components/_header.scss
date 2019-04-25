@@ -1,0 +1,25 @@
+.header {
+    background: $dark-blue
+}
+
+.header__content {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: $s-size 0;
+    > div {
+        display: flex;
+    }
+}
+
+.header__title {
+    border: 1px solid white;
+    border-radius: 16px;
+    color: white;
+    text-decoration: none;
+    padding: 0 $s-size;
+    margin-right: $s-size;
+    h1, h2, h3 {
+        margin: 0
+    }
+}

@@ -1,0 +1,13 @@
+.text {
+    padding-bottom: $s-size;
+    margin: 0;
+    font-size: $font-size-small;
+    font-weight: 300;
+}
+
+.text__title {
+    padding-bottom: $m-size;
+    margin: 0;
+    font-size: $font-size-large;
+    font-weight: 600;
+}
