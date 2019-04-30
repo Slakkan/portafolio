@@ -8,6 +8,16 @@
     line-height: 1;
     padding: $s-size;
     text-decoration: none;
+    &--close {
+        position: absolute;
+        top: $m-size;
+        right: $m-size;
+        line-height: 0;
+        padding: 0;
+        width: $l-size;
+        height: $l-size;
+        border-radius: $l-size;
+    }
 }
 
 .button--link {

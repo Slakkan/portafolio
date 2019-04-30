@@ -7,6 +7,7 @@
 }
 
 .form__error {
+    word-break: break-all;
     margin: 0 0 $m-size 0;
     font-style: italic;
 }
