@@ -6,17 +6,11 @@ const AboutMePage = () => (
             <img className="profile-image" src="/images/Foto.png" alt="Foto de perfil"></img>
             <div className="vertical vertical--white-background">
                 <h3 className="text__title">Lisandro Pastinante</h3>
-                <p className="text">Soy un desarrollador web fullstack en busca de oportunidades para crecer en mi carrera profesional. Hablo fluído inglés italiano y español y estoy aprendiendo japonés.</p>
-                <p className="text">Nací el 19/11/1991 en Arroyo Seco, provincia de Santa Fe. Cuando tenía 12 años nos mudamos a Rosario en donde me anoté en la secundaria Dante Alighieri.
-                Luego de graduarme en la secundaria estudié ingniería electrónica por 3 años. En este período trabajé en un cyber y luego como vendedor.
-                Ver que mi progreso era lento me desmotivó y abandoné la carrera.</p>
+                <p className="text">Soy un desarrollador web fullstack en busca de oportunidades para crecer en mi carrera profesional. Escribo y hablo fluído inglés, italiano y español, actualmente estudio japonés.</p>
+                <p className="text">Nací el 19/11/1991 en Arroyo Seco, provincia de Santa Fe. A 12 años me mudé a Rosario en donde donde actualmente vivo.
+                Luego de graduarme en la secundaria Dante Alighieri, estudié ingniería electrónica por 3 años. Actualmente me desempeño como vendedor en la empresa PackGroup S.A.</p>
             </div>
         </div>
-        <div className="horizontal horizontal--white-background">
-            <p className="text">Hace no mucho tiempo un amigo me contó sobre un curso online de programación, el cual tomé principalmente como un hobbie para concretar algunos de mis proyectos caseros.
-        Y así comenzó...curso tras curso mi motivación crecía y ahí es cuando supe: “¡Esto es lo que quiero hacer por el resto de mi vida!”</p>
-        </div>
-
         <div className="vertical vertical--white-background">
             <h3 className="text_title">Educación</h3>
             <p className="text">Bachiller en Economía y Administración / Dante Alighieri </p>
