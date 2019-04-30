@@ -13,7 +13,7 @@ const AboutMePage = () => (
         </div>
         <div className="vertical vertical--white-background">
             <h3 className="text_title">Educación</h3>
-            <p className="text">Bachiller en Economía y Administración / Dante Alighieri </p>
+            <p className="text">Bachiller en Economía y Administración / Instituto Superior Dante Alighieri </p>
             <p className="text">Ingeniería Electrónica (3 años) / Universidad Nacional de Rosario</p>
             <a target="_blank" href="https://ed.team/cursos/css-avanzado"><p className="text">EDteam: Flex-box y Grid avanzado</p></a> 
             <a className="text" target="_blank" href="https://www.udemy.com/modern-javascript/">Udemy: The modern Javascript Bootcamp</a>
