@@ -3,8 +3,13 @@
     padding: 0 $m-size;
     max-width: 80rem;
     min-width: 70rem;
+    &--top-padding {
+        padding-top: $l-size;
+    }
 }
 
-.content-container--top-padding {
-    padding: $l-size;
+.content-container--header {
+    display: block;
+    min-width: 70rem;
+    padding: 0;
 }

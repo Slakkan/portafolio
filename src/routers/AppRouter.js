@@ -12,13 +12,11 @@ export const history = createBrowserHistory()
 
 const AppRouter = () => (
     <Router history={history}>
-        <div>
-            <Switch>
-                <PublicRoute path='/' exact={true} component={DashboardPage} />
-                <PublicRoute path='/aboutme' component={AboutMePage} />
-                <Route component={NotFoundPage} />
-            </Switch>
-        </div>
+        <Switch>
+            <PublicRoute path='/' exact={true} component={DashboardPage} />
+            <PublicRoute path='/aboutme' component={AboutMePage} />
+            <Route component={NotFoundPage} />
+        </Switch>
     </Router>
 )
 
